@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Zak! 👋 </h1>
+
+<h3 align="center">  JavaScript | TypeScript | React.js | GraphQL </h3> <br>
+
+You can learn more about me on [my website](https://zaklaughton.dev), [Twitter](https://www.twitter.com/ZakLaughton), or [LinkedIn](https://www.linkedin.com/ZakLaughton)
 
 <!--
 **ZakLaughton/ZakLaughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
